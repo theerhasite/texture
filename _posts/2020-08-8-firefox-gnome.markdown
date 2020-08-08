@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Тема adwaita для Firefox"
-description: An example post which shows code rendering.
+description: Тема для Firefox
 date:   2019-05-23 21:03:36 +0530
 categories: Firefox Gnome
 ---
