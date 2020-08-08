@@ -14,7 +14,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Сайт/Mини-вики theerha
-  tagline: 
+  tagline: Автор - t.me/waylandstartuet
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
