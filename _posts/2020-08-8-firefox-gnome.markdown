@@ -14,12 +14,11 @@ categories: Firefox Gnome
 git clone https://github.com/rafaelmardojai/firefox-gnome-theme.git
 ```
 
-Заходим в директорию с темой
+Заходим в директорию с темой и заходим в неё
 
 ```cd firefox-gnome-theme
 ```
-И собственно,устанавливаем тему 
-```
+ ```
 ./scripts/install.sh
 ```
 
