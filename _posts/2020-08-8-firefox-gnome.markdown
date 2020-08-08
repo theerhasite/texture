@@ -13,14 +13,16 @@ categories: Firefox Gnome
 ```
 git clone https://github.com/rafaelmardojai/firefox-gnome-theme.git
 ```
+
 Заходим в директорию с темой
+
 ```cd firefox-gnome-theme
 ```
-И собственно,устанавливаем саму тему!
-
+И собственно,устанавливаем тему 
 ```
 ./scripts/install.sh
 ```
+
 **Cкроллбары**
 По желанию вы можете установить гномовские скроллбары,для этого выполните следующую команду
 
